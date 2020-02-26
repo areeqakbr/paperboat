@@ -1,3 +1,3 @@
-<?php 
-	echo "Halo, kita belajar GIT";
+<?php
+	echo "Hai, Saya belajar GIT";
 ?>
